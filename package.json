@@ -1,0 +1,23 @@
+{
+  "name": "express_express",
+  "version": "1.0.0",
+  "description": "node HTTp module",
+  "homepage": "https://github.com/Sravani-Developer/m3-wk1-d2-demo#readme",
+  "bugs": {
+    "url": "https://github.com/Sravani-Developer/m3-wk1-d2-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sravani-Developer/m3-wk1-d2-demo.git"
+  },
+  "license": "ISC",
+  "author": "Sravani Medagam",
+  "type": "commonjs",
+  "main": "exp_demo1.js",
+  "scripts": {
+    "test": "git repository,keywords"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
